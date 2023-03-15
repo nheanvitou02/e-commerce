@@ -1,0 +1,38 @@
+<?php
+
+return [
+    'login-failed' => 'Failed to login',
+    'login-username.required' => 'Please enter in your username/email',
+    'login-password.required' => 'Please enter password',
+
+    //Param
+    'username' => 'Username',
+    'email' => 'Username or email is already',
+    'email-required' => 'Email harus diisi',
+    'enter-username' => 'Enter username',
+    'username-required' => 'Username is required',
+    'username-unique' => 'Username is already in use',
+    'select-role' => 'Choose roles',
+    'role_id-required' => 'Roles must be selected',
+    'role_id-integer' => 'Roles must be numeric',
+    'password' => 'Password',
+    'enter-password' => 'Enter password',
+    'password-required' => 'Password is required',
+    'confirm-password' => 'Confirm Password',
+    'enter-confirm-password' => 'Enter comfirm password',
+    'confirm-password-required' => 'Confirm password is required',
+    'confirm-password-same' => 'Password not match',
+    'name' => 'Name is already in use',
+    'enter-name' => 'Enter nama',
+    'name-required' => 'Nama is required',
+    'select-item' => 'Choose item',
+    'file-required' => 'File is required',
+    'file-file' => 'File must be file',
+    'link-required' => 'Link is required',
+    'file-mimes' => 'Incompatible files',
+    'content-required' => 'Content is required',
+    'weight-required' => 'Weight is required',
+    'price-required' => 'Price is required',
+    'discount-required' => 'Discount is required',
+    'title-required' => 'Name product is required',
+];
