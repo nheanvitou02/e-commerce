@@ -30,7 +30,7 @@ How to run backend project plz help to follow this step
 ### `Open Folder project on VS code`
 - **[Install Vs code](https://code.visualstudio.com/download/)**
 
-### `cd server`
+### `cd server-&-admin`
 Cd to folder directory server
 
 ### `create file call .env`
