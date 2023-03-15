@@ -744,7 +744,7 @@ export default {
 
     var navbar = document.getElementById("navbar");
     var logo = document.getElementById("logo");
-    var sticky = navbar.offsetTop;
+    var sticky = navbar.offsetTop + 100;
 
     function myFunction() {
       if (window.pageYOffset >= sticky) {

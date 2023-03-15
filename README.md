@@ -33,10 +33,10 @@ How to run backend project plz help to follow this step
 
 - **[Install Vscode](https://code.visualstudio.com/download/)**
 
-## Run to folder server-&-admin
+## Run to folder server_admin
 
 ```sh
-cd server-&-admin
+cd server_admin
 ```
 
 Create file `.env` and content copy from file `.env.example`
