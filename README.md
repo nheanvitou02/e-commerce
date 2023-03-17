@@ -114,13 +114,6 @@ npm install
 npm run dev
 ```
 
-# Environment
+# Relational database diagram
 
-- **dev**
-- **stage**
-- **production**
-
-# UML databass diagram
-
-- **[Tool using](https://app.diagrams.net/)**
-<!-- <p><img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/336040369_5998398566861958_3229764456201448372_n.png?stp=dst-png_p206x206&_nc_cat=102&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeHVwM4xYOs--LpQNgYM0p050evNMm9SMA7R680yb1IwDif517WWcFYIxWpqwgwFsVdPjrTjQFs1o56n9izLj9XW&_nc_ohc=jXC5WqLBuZgAX8nnepR&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSbObVlokea4wjqyOuhEONXPx4xH6rr9zOYXPntNNmjxg&oe=643803A6" width="500" alt="Laravel Logo"></p> -->
+<p><img src="./relational_database.png" width="500" alt="Laravel Logo"></p>
