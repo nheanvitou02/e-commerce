@@ -39,6 +39,12 @@ How to run backend project plz help to follow this step
 cd server_admin
 ```
 
+## Run to install dependencies of project
+
+```sh
+composer install
+```
+
 ## Create a copy of your .env file
 
 ```sh
@@ -51,12 +57,6 @@ This will create a copy of the `.env.example` file in your project and name the 
 
 ```sh
 php artisan key:generate
-```
-
-## Run to install dependencies of project
-
-```sh
-composer install
 ```
 
 ## Run migratetion to create table in databass
