@@ -33,7 +33,7 @@ How to run backend project plz help to follow this step
 
 - **[Install Vscode](https://code.visualstudio.com/download/)**
 
-## Run to folder server_admin
+## cd into folder server_admin
 
 ```sh
 cd server_admin
@@ -108,7 +108,7 @@ How to run client project plz help to follow this step
 
 - **[Install VScode](https://code.visualstudio.com/download/)**
 
-## Run to folder client
+## cd into folder client
 
 ```sh
 cd client
