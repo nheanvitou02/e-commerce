@@ -39,7 +39,19 @@ How to run backend project plz help to follow this step
 cd server_admin
 ```
 
-Create file `.env` and content copy from file `.env.example`
+## Create a copy of your .env file
+
+```sh
+cp .env.example .env
+```
+
+This will create a copy of the `.env.example` file in your project and name the copy simply `.env`.
+
+## Generate an app encryption key
+
+```sh
+php artisan key:generate
+```
 
 ## Run to install dependencies of project
 
