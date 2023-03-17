@@ -114,6 +114,6 @@ npm install
 npm run dev
 ```
 
-# Relational database diagram
+## Relational database diagram
 
 <p><img src="./relational_database.png" width="500" alt="Laravel Logo"></p>
